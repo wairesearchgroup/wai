@@ -1,59 +1,56 @@
 
 prof-a:
-    display_name: "Prof A"
+    display_name: "Professor Maite Lopez-Sanchez"
+    webpage: "https://webgrec.ub.edu/webpages/000006/ang/maite_lopez.ub.edu.html"
+    github: maitels
     role: faculty
-
-prof-b:
-    display_name: "Prof B"
-    role: faculty
-
-prof-c:
-    display_name: "Prof C"
-    role: faculty
-
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
-    role: faculty
-    image: /img/people/prof-x.png
+    image: /img/people/maite.jpeg
     bio: Professor
 
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
+prof-b:
+    display_name: "Prof Anna Puig Puig"
+    webpage: "https://webgrec.ub.edu/webpages/personal/cat/001040_annapuig.ub.edu.html"
+    github: annapuigpuig
+    role: faculty
+    image: /img/people/anna.jpeg
 
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
+prof-c:
+    display_name: "Prof Inmaculada Rodriguez Santiago"
+    webpage: "https://webgrec.ub.edu/webpages/000006/ang/inmarodriguez.ub.edu.html"
+    github: inmairs
+    role: faculty
+    image: /img/people/inma.jpeg
+prof-d:
+    display_name: "Prof Maria Salamo Llorente"
+    webpage: "https://webgrec.ub.edu/webpages/personal/ang/002969_maria.salamo.ub.edu.html"
+    github: msalamo
+    role: faculty
+    image: /img/people/maria.jpeg
+
+
+david:
+    display_name: "David Contreras"
     github: wolverine
+    image: /img/people/davidcontreras.jpeg
     role: postdoc
 
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
-    image: /img/people/storm.png
 
 grad-a:
-    display_name: "Grad A"
+    display_name: "Thanasis Zoumpekas"
     role: grad
-
+    image: /img/people/thanasis.png
 grad-b:
-    display_name: "Graduate Student B With Long Name"
+    display_name: "Ecem Kavaz"
     role: grad
-
+    image: /img/people/ecem.png
 grad-c:
-    display_name: "Grad C"
+    display_name: "Leandro Zardain"
     role: grad
-
+    image: /img/people/leandro.jpeg
 grad-d:
-    display_name: "Grad D"
+    display_name: "Alejandro Ariza"
     role: grad
-
+    image: /img/people/storm.png
 grad-e:
     display_name: "Grad E"
     role: grad
@@ -75,61 +72,73 @@ grad-i:
     role: grad
 
 alum-a:
-    display_name: "Alum A"
+    display_name: "Pablo Almajano"
     role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+    image: /img/people/pablo.jpeg
+    bio: "Ph.D., 2013. Now at ***."
 
 alum-b:
-    display_name: "Alum B With Way Longer Name"
+    display_name: "Alex Rodríguez-Campoy"
+    image: /img/people/storm.png
+    bio: "CS and Math Graduate Student, 2020. Now at ***."
     role: alum
 
 alum-c:
-    display_name: "Alum C"
+    display_name: "Cristian Muriel"
     role: alum
+    bio: "Graduate Student. Now at ***."
     webpage: "https://www.google.com"
 
 alum-d:
-    display_name: "Alum D"
+    display_name: "Sergi Cebrian "
     role: alum
 
 alum-e:
-    display_name: "Alum E"
+    display_name: "David Rausell"
     role: alum
 
 alum-f:
-    display_name: "Alum F"
+    display_name: "Gonzalo Panella"
     role: alum
 
 alum-g:
-    display_name: "Alum G"
+    display_name: "Oriol Sors"
     role: alum
 
 alum-h:
-    display_name: "Alum H"
+    display_name: "name "
     role: alum
 
 alum-i:
     display_name: "Alum I"
     role: alum
 
-collab-a:
-    display_name: "Collaborator A"
+collab-jar:
+    display_name: "Jose Antonio Rodríguez-Aguilar"
+    bio: "Senior Researcher at IIIA"
+    webpage: "https://www.iiia.csic.es/~jar/Jariiia/Home.html"
+    image: /img/people/jar.jpeg
     role: collab
 
-collab-b:
-    display_name: "Collaborator B With Long Name"
+collab-jesus:
+    display_name: "Jesús Cerquides Bueno"
     role: collab
+    bio: "Senior Researcher at IIIA"
+    image: /img/people/jesus.gif
 
 collab-c:
-    display_name: "Collaborator C"
+    display_name: "Sergi Múria"
+    bio: "Maths Professor"
     role: collab
 
 collab-d:
-    display_name: "Collaborator D"
+    display_name: "Mariona Teulé"
+    bio: "Researcher in Computational Linguistics"
     role: collab
 
 collab-e:
-    display_name: "Collaborator E"
+    display_name: "Montse Nofre"
+    bio: "Researcher in Computational Linguistics"
     role: collab
 
 ugrad-a:

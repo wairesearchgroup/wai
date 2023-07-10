@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Serious Games WAI
 notitle: true
 
 # groups of columns of {roles: list, width: num, image: bool}
@@ -22,8 +22,7 @@ role-tables:
 
 <div class="jumbotron">
     <p>
-        The <b>Awesome Research Group</b> at <b>Example U</b> does all sorts of
-        research. Here is a place where we tell you exactly what that is!
+        The <b>WAI Research Group</b>: Virtual Worlds, Visualization and Artificial Intelligence Research Group at <b>Universtat of Barcelona (UB)</b>
     </p>
 </div>
 
@@ -44,10 +43,10 @@ role-tables:
 </section>
 
 <section>
-    <h2>Research</h2>
+    <h2>Research Lines</h2>
     <div class="card-columns">
         {% comment %}
-        Sort the projects by date, putting those without dates last
+        List the research areas
         {% endcomment %}
         {% assign projects_by_date = site.projects | sort: 'last-updated', 'first' %}
         {% assign projects_by_date = projects_by_date | reverse %}
@@ -55,6 +54,22 @@ role-tables:
             {% if p.status != "inactive" %}
                 {% include project-card.html project=p %}
             {% endif %}
+        {% endfor %}
+    </div>
+</section>
+
+<section>
+    <h2>Projects</h2>
+    <div class="card-columns">
+        {% comment %}
+        Sort the projects by date, putting those without dates last
+        {% endcomment %}
+        {% assign projects_by_date = site.projects | sort: 'last-updated', 'first' %}
+        {% assign projects_by_date = projects_by_date | reverse %}
+        {% for p in projects_by_date %}
+        {% if p.status != "inactive" %}
+        {% include project-card.html project=p %}
+        {% endif %}
         {% endfor %}
     </div>
 </section>
