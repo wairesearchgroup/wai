@@ -33,7 +33,7 @@ roles:
 front_page_news: 2
 
 # Base pathname for links.
-base: ''
+base: ""
 
 # make pages for the _projects folder
 collections:
@@ -45,10 +45,12 @@ navigation:
   - title: Serious Game Projects
     link: /
   - title: Math Games
-    link: /#people
-  - title: Programming Games
+    link: /mathGames.html
+  - title: Computer Science Games
     link: /research.html
-  - title: Publications
-    link: /publications.html
   - title: Others
     link: /code.html
+  - title: Publications
+    link: /publications.html
+  - title: People
+    link: /#people

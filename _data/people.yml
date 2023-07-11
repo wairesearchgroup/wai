@@ -1,170 +1,167 @@
-
 prof-a:
-    display_name: "Professor Maite Lopez-Sanchez"
-    webpage: "https://webgrec.ub.edu/webpages/000006/ang/maite_lopez.ub.edu.html"
-    github: maitels
-    role: faculty
-    image: /img/people/maite.jpeg
-    bio: Professor
+  display_name: "Professor Maite Lopez-Sanchez"
+  webpage: "https://webgrec.ub.edu/webpages/000006/ang/maite_lopez.ub.edu.html"
+  github: maitels
+  role: faculty
+  image: /img/people/maite.jpeg
+  bio: Professor
 
 prof-b:
-    display_name: "Prof Anna Puig Puig"
-    webpage: "https://webgrec.ub.edu/webpages/personal/cat/001040_annapuig.ub.edu.html"
-    github: annapuigpuig
-    role: faculty
-    image: /img/people/anna.jpeg
+  display_name: "Prof Anna Puig Puig"
+  webpage: "https://webgrec.ub.edu/webpages/personal/cat/001040_annapuig.ub.edu.html"
+  github: annapuigpuig
+  role: faculty
+  image: /img/people/anna.jpg
 
 prof-c:
-    display_name: "Prof Inmaculada Rodriguez Santiago"
-    webpage: "https://webgrec.ub.edu/webpages/000006/ang/inmarodriguez.ub.edu.html"
-    github: inmairs
-    role: faculty
-    image: /img/people/inma.jpeg
+  display_name: "Prof Inmaculada Rodriguez Santiago"
+  webpage: "https://webgrec.ub.edu/webpages/000006/ang/inmarodriguez.ub.edu.html"
+  github: inmairs
+  role: faculty
+  image: /img/people/inma.jpg
 prof-d:
-    display_name: "Prof Maria Salamo Llorente"
-    webpage: "https://webgrec.ub.edu/webpages/personal/ang/002969_maria.salamo.ub.edu.html"
-    github: msalamo
-    role: faculty
-    image: /img/people/maria.jpeg
-
+  display_name: "Prof Maria Salamo Llorente"
+  webpage: "https://webgrec.ub.edu/webpages/personal/ang/002969_maria.salamo.ub.edu.html"
+  github: msalamo
+  role: faculty
+  image: /img/people/maria.jpeg
 
 david:
-    display_name: "David Contreras"
-    github: wolverine
-    image: /img/people/davidcontreras.jpeg
-    role: postdoc
-
+  display_name: "David Contreras"
+  github: wolverine
+  image: /img/people/davidcontreras.jpeg
+  role: postdoc
 
 grad-a:
-    display_name: "Thanasis Zoumpekas"
-    role: grad
-    image: /img/people/thanasis.png
+  display_name: "Thanasis Zoumpekas"
+  role: grad
+  image: /img/people/thanasis.png
 grad-b:
-    display_name: "Ecem Kavaz"
-    role: grad
-    image: /img/people/ecem.png
+  display_name: "Ecem Kavaz"
+  role: grad
+  image: /img/people/ecem.png
 grad-c:
-    display_name: "Leandro Zardain"
-    role: grad
-    image: /img/people/leandro.jpeg
+  display_name: "Leandro Zardain"
+  role: grad
+  image: /img/people/leandro.jpeg
 grad-d:
-    display_name: "Alejandro Ariza"
-    role: grad
-    image: /img/people/storm.png
+  display_name: "Alejandro Ariza"
+  role: grad
+  image: /img/people/storm.png
 grad-e:
-    display_name: "Grad E"
-    role: grad
+  display_name: "Grad E"
+  role: grad
 
 grad-f:
-    display_name: "Grad F"
-    role: grad
+  display_name: "Grad F"
+  role: grad
 
 grad-g:
-    display_name: "Grad G"
-    role: grad
+  display_name: "Grad G"
+  role: grad
 
 grad-h:
-    display_name: "Grad H"
-    role: grad
+  display_name: "Grad H"
+  role: grad
 
 grad-i:
-    display_name: "Grad I"
-    role: grad
+  display_name: "Grad I"
+  role: grad
 
 alum-a:
-    display_name: "Pablo Almajano"
-    role: alum
-    image: /img/people/pablo.jpeg
-    bio: "Ph.D., 2013. Now at ***."
+  display_name: "Pablo Almajano"
+  role: alum
+  image: /img/people/pablo.jpeg
+  bio: "Ph.D., 2013. Now at ***."
 
 alum-b:
-    display_name: "Alex Rodríguez-Campoy"
-    image: /img/people/storm.png
-    bio: "CS and Math Graduate Student, 2020. Now at ***."
-    role: alum
+  display_name: "Alex Rodríguez-Campoy"
+  image: /img/people/storm.png
+  bio: "CS and Math Graduate Student, 2020. Now at ***."
+  role: alum
 
 alum-c:
-    display_name: "Cristian Muriel"
-    role: alum
-    bio: "Graduate Student. Now at ***."
-    webpage: "https://www.google.com"
+  display_name: "Cristian Muriel"
+  role: alum
+  bio: "Graduate Student. Now at ***."
+  webpage: "https://www.google.com"
 
 alum-d:
-    display_name: "Sergi Cebrian "
-    role: alum
+  display_name: "Sergi Cebrian "
+  role: alum
 
 alum-e:
-    display_name: "David Rausell"
-    role: alum
+  display_name: "David Rausell"
+  role: alum
 
 alum-f:
-    display_name: "Gonzalo Panella"
-    role: alum
+  display_name: "Gonzalo Panella"
+  role: alum
 
 alum-g:
-    display_name: "Oriol Sors"
-    role: alum
+  display_name: "Oriol Sors"
+  role: alum
 
 alum-h:
-    display_name: "name "
-    role: alum
+  display_name: "name "
+  role: alum
 
 alum-i:
-    display_name: "Alum I"
-    role: alum
+  display_name: "Alum I"
+  role: alum
 
 collab-jar:
-    display_name: "Jose Antonio Rodríguez-Aguilar"
-    bio: "Senior Researcher at IIIA"
-    webpage: "https://www.iiia.csic.es/~jar/Jariiia/Home.html"
-    image: /img/people/jar.jpeg
-    role: collab
+  display_name: "Jose Antonio Rodríguez-Aguilar"
+  bio: "Senior Researcher at IIIA"
+  webpage: "https://www.iiia.csic.es/~jar/Jariiia/Home.html"
+  image: /img/people/jar.jpeg
+  role: collab
 
 collab-jesus:
-    display_name: "Jesús Cerquides Bueno"
-    role: collab
-    bio: "Senior Researcher at IIIA"
-    image: /img/people/jesus.gif
+  display_name: "Jesús Cerquides Bueno"
+  role: collab
+  bio: "Senior Researcher at IIIA"
+  image: /img/people/jesus.gif
 
 collab-c:
-    display_name: "Sergi Múria"
-    bio: "Maths Professor"
-    role: collab
+  display_name: "Sergi Múria"
+  bio: "Maths Professor"
+  role: collab
 
 collab-d:
-    display_name: "Mariona Teulé"
-    bio: "Researcher in Computational Linguistics"
-    role: collab
+  display_name: "Mariona Teulé"
+  bio: "Researcher in Computational Linguistics"
+  role: collab
 
 collab-e:
-    display_name: "Montse Nofre"
-    bio: "Researcher in Computational Linguistics"
-    role: collab
+  display_name: "Montse Nofre"
+  bio: "Researcher in Computational Linguistics"
+  role: collab
 
 ugrad-a:
-    display_name: "Ugrad A"
-    role: ugrad
+  display_name: "Ugrad A"
+  role: ugrad
 
 ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
+  display_name: "Ugrad Student B With Long Name"
+  role: ugrad
 
 ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
+  display_name: "Ugrad C"
+  role: ugrad
 
 ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
+  display_name: "Ugrad D"
+  role: ugrad
 
 ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
+  display_name: "Ugrad E"
+  role: ugrad
 
 ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
+  display_name: "Past Ugrad A"
+  role: ugrad-alum
 
 ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
+  display_name: "Past Ugrad Student B With Long Name"
+  role: ugrad-alum
