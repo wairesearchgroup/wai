@@ -103,8 +103,9 @@ alum-g:
   role: alum
 
 alum-h:
-  display_name: "Ivan Gómez"
+  display_name: "name "
   role: alum
+  image: /img/people/storm.png
 
 alum-i:
   display_name: "Alex Fuentes"
