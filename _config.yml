@@ -39,6 +39,12 @@ base: ""
 collections:
   projects:
     output: true
+# make pages for the _projectsMath folder
+  projectsMath:
+    output: true
+  # make pages for the _projectOthers folder
+  projectsOthers:
+    output: true
 
 # Navigation bar links.
 navigation:
@@ -47,10 +53,9 @@ navigation:
   - title: Math Games
     link: /mathGames.html
   - title: Computer Science Games
-    link: /research.html
+    link: /CSGames.html
   - title: Others
-    link: /code.html
+    link: /otherGames.html
   - title: Publications
     link: /publications.html
-  - title: People
-    link: /#people
+
