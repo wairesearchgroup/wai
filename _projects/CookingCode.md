@@ -11,6 +11,9 @@ description: |
 people:
   - prof-b
   - prof-c
+  - alum-h
+  - alum-i
+  - alum-j
 
 layout: project
 image: "./img/CookingCode.png"

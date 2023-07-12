@@ -10,6 +10,7 @@ description: |
 people:
   - prof-b
   - prof-c
+  - alum-l
 
 layout: project
 image: "./img/computer-literacy-game-1.png"

@@ -103,11 +103,23 @@ alum-g:
   role: alum
 
 alum-h:
-  display_name: "name "
+  display_name: "Ivan Gómez"
   role: alum
 
 alum-i:
-  display_name: "Alum I"
+  display_name: "Alex Fuentes"
+  role: alum
+
+alum-j:
+  display_name: "Marc Casanova"
+  role: alum
+
+alum-k:
+  display_name: "Alex Dickson"
+  role: alum
+
+alum-l:
+  display_name: "David Gómez"
   role: alum
 
 collab-jar:

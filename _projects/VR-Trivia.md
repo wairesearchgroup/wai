@@ -11,6 +11,7 @@ description: |
 people:
   - prof-b
   - prof-c
+  - alum-k
 
 layout: project
 image: "./img/TriviaGameVR.png"
