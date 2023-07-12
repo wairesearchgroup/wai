@@ -39,7 +39,7 @@ base: ""
 collections:
   projects:
     output: true
-# make pages for the _projectsMath folder
+  # make pages for the _projectsMath folder
   projectsMath:
     output: true
   # make pages for the _projectOthers folder
@@ -58,4 +58,3 @@ navigation:
     link: /otherGames.html
   - title: Publications
     link: /publications.html
-

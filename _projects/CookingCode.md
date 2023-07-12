@@ -1,5 +1,6 @@
 ---
-title: Cooking Code Game (VR)
+title: Cooking Code Game
+subtitle: Virtual Reality platform
 
 notitle: true
 
@@ -15,6 +16,10 @@ layout: project
 image: "./img/CookingCode.png"
 last-updated: 2023-07-11
 ---
+
+## Cooking Code Game
+
+This game aims to teach programming using a metaphor of cooking and restaurants. The player takes different roles, a Chef in a kitchen and a waiter in a restaurant.
 
 #### Role of Chef
 
@@ -37,5 +42,7 @@ go to the different tables of the restaurant collecting clients' orders. The mai
 these orders, that they receive in natural language, into a language similar to pseudo-code. The player grabs and locate panels of food (drinks, bread, cheese, etc.) which in fact represent programming constructs (sequential instructions, if else, for).
 
 ![Snapshot of the game](/img/RestaurantCode.png)
+
+[![Watch the video]()](https://www.youtube.com/playlist?list=PLYl7lmL25Y7Ltqn97Pjb0d_FsCKo7VDRG)
 
 [![Watch the video]()](https://www.youtube.com/channel/UCqhzRrTLJF-e4b3o-rk0V8w)
