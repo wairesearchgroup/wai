@@ -13,11 +13,12 @@ people:
   - alum-e
   - alum-f
   - alum-g
-  
+
 layout: project
-image: "./img/computer-literacy-game-1.png"
+image: "/img/computer-literacy-game-1.png"
 last-updated: 2023-07-11
 ---
+
 ## GeoPieces Games
 
 Learning by doing. Many studies claim that the best way of teaching is by making the students interact with what they want to learn. Accordingly, this set of games aims to provide teachers with an aiding tool, specifically in
@@ -53,7 +54,4 @@ these orders, that they receive in natural language, into a language similar to 
 
 #### Geopieces 3D - A sudoku of projections
 
-
-
 #### GeoPieces - analysis
-

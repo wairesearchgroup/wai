@@ -14,7 +14,7 @@ people:
   - alum-k
 
 layout: project
-image: "./img/TriviaGameVR.png"
+image: "/img/TriviaGameVR.png"
 last-updated: 2023-07-11
 ---
 

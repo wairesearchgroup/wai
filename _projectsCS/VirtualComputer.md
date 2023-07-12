@@ -13,7 +13,7 @@ people:
   - alum-l
 
 layout: project
-image: "./img/computer-literacy-game-1.png"
+image: "/img/computer-literacy-game-1.png"
 last-updated: 2023-07-11
 ---
 
