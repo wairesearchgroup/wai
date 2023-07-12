@@ -1,26 +1,31 @@
 ---
-title: Cooking Code Game (VR)
+title: GeoPieces Games
 
 notitle: true
 
 description: |
-  #### Cooking Code Game
-  This VR game aims to introduce programming concepts through an immmersive experience where the player takes the role of a cooker.
-
+  ### GeoPieces Game
+  This game addresses educational objectives in geometry (2D, 2D-3D, 3D) including authoring tools for teachers.
 people:
   - prof-b
   - prof-c
-  - alum-c
-  - alum-h
-
+  - alum-d
+  - alum-e
+  - alum-f
+  - alum-g
+  
 layout: project
-image: "./img/CookingCode.png"
+image: "./img/computer-literacy-game-1.png"
 last-updated: 2023-07-11
 ---
+## GeoPieces Games
 
-#### Role of Chef
+Learning by doing. Many studies claim that the best way of teaching is by making the students interact with what they want to learn. Accordingly, this set of games aims to provide teachers with an aiding tool, specifically in
+the field of geometry teaching during the last years of primary school.
 
-The game is based on the metaphor of a Burger, set in a futuristic era where robots and humans coexist as equals. The player plays the role of a chef, having to learn to read the orders that arrive and carry them out successfully. The main difficulty is that the requests do not arrive in natural language, but in a kind of pseudo-code.
+#### Geoppieces 2D
+
+This game
 
 ![Snapshot of the game](/img/cookingCode.png)
 
@@ -32,7 +37,7 @@ The game is based on the metaphor of a Burger, set in a futuristic era where rob
 
 [![Watch a video: complete chef's work day]()](https://www.youtube.com/watch?v=t_7n_6BZ--w)
 
-#### Role of Waiter
+#### GeoPieces 2D-3D
 
 In this mode, the player will be a waiter so that she/he must
 go to the different tables of the restaurant collecting clients' orders. The main diffculty will be to translate
@@ -40,4 +45,15 @@ these orders, that they receive in natural language, into a language similar to 
 
 ![Snapshot of the game](/img/RestaurantCode.png)
 
+[![Watch the video]()](https://www.youtube.com/playlist?list=PLYl7lmL25Y7Ltqn97Pjb0d_FsCKo7VDRG)
+
 [![Watch the video]()](https://www.youtube.com/channel/UCqhzRrTLJF-e4b3o-rk0V8w)
+
+#### GeoPieces 3D
+
+#### Geopieces 3D - A sudoku of projections
+
+
+
+#### GeoPieces - analysis
+
