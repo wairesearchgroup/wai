@@ -1,43 +1,51 @@
 ---
-title: Cooking Code Game (VR)
+title: Fracsland
 
 notitle: true
 
 description: |
-  #### Cooking Code Game
-  This VR game aims to introduce programming concepts through an immmersive experience where the player takes the role of a cooker.
+  #### Fracsland
+  
+  This game related to the learning of fractions has been co-designed with Primary School children from the Escola del Mar (Barcelona, Spain) 
 
 people:
   - prof-b
   - prof-c
   - alum-c
   - alum-h
-
+  
 layout: project
-image: "./img/CookingCode.png"
-last-updated: 2023-07-11
+image: "/img/mathProjects/Fracsland.png"
+last-updated: 2020-07-01
 ---
 
-#### Role of Chef
+## Fracsland
+https://diposit.ub.edu/dspace/handle/2445/104290
 
-The game is based on the metaphor of a Burger, set in a futuristic era where robots and humans coexist as equals. The player plays the role of a chef, having to learn to read the orders that arrive and carry them out successfully. The main difficulty is that the requests do not arrive in natural language, but in a kind of pseudo-code.
+#### Fracsland - codesign
 
-![Snapshot of the game](/img/cookingCode.png)
+Fracsland is an educative project oriented to reinforce de concept of fraction to the students of the PrimarySchool and how this knowledge can be related with real world concepts.
 
-[![Watch a video: challenge of cooking with simple sequential sentences]()](https://www.youtube.com/watch?v=aV7KA7_Eigs)
+![Co-design sessions with students](/img/mathProjects/codesign-2.png){: width="50%" }
 
-[![Watch a video: challenge of cooking with conditional sentences]()](https://www.youtube.com/watch?v=4I8x0JyHFNM)
+#### Fracsland - play
+<p>On the one hand, there is a part designed especially for the students which consists in a serious game of fractions with beautiful 3D graphics powered by Unity3D which will allow them to have fun on an island based environment while learning about concepts related with fractions.
+</p>
 
-[![Watch a video: challenge of cooking with iteratives]()](https://www.youtube.com/watch?v=m_uSVEkhEBQ)
+![Snapshots of the game](/img/mathProjects/selectQuestFracsland.png){: width="60%"} |![](/img/mathProjects/FracslandCercle.png){: width="120%"} 
 
-[![Watch a video: complete chef's work day]()](https://www.youtube.com/watch?v=t_7n_6BZ--w)
+![](/img/mathProjects/InventoryFracsland.png){: width="75%" } |![](/img/mathProjects/Frascland2.png){: width="75%"}
 
-#### Role of Waiter
+[![Watch a video: playing Fracsland - TO DO]()](https://www.youtube.com/watch?v=t_7n_6BZ--w)
 
-In this mode, the player will be a waiter so that she/he must
-go to the different tables of the restaurant collecting clients' orders. The main diffculty will be to translate
-these orders, that they receive in natural language, into a language similar to pseudo-code. The player grabs and locate panels of food (drinks, bread, cheese, etc.) which in fact represent programming constructs (sequential instructions, if else, for).
 
-![Snapshot of the game](/img/RestaurantCode.png)
+#### Fracsland - teacher authoring
 
-[![Watch the video]()](https://www.youtube.com/channel/UCqhzRrTLJF-e4b3o-rk0V8w)
+<p>On the other hand, there is a web platform designed for teachers, powered by Django which will allow them to adapt the game to each student according to their skills. This platform also provides teachers with de ability of monitor the progress their students, useful to know which ones require more help.
+</p>
+
+![Snapshot of the authoring system](/img/mathProjects/questsFracsland.png){: width="50%" }
+
+[![Watch a video: game authoring in Fracsland]()](https://www.youtube.com/watch?v=3_j9RlQWokw)
+
+
