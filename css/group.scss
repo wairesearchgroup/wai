@@ -158,3 +158,5 @@ svg {
   // make the alignment just like img from bootstrap's reboot.scss
   vertical-align: middle;
 }
+
+img[alt=drawing] { width: 200px; }

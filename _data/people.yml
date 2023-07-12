@@ -103,8 +103,9 @@ alum-g:
   role: alum
 
 alum-h:
-  display_name: "name "
+  display_name: "Johan Baldeón"
   role: alum
+  image: /img/people/storm.png
 
 alum-i:
   display_name: "Alum I"
