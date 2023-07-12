@@ -12,10 +12,6 @@ people:
   - prof-b
   - prof-c
   - alum-c
-  - alum-d
-  - alum-e
-  - alum-f
-  - alum-g
   - alum-h
   
 layout: project
