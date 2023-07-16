@@ -19,8 +19,7 @@ image: "/img/mathProjects/Fracsland.png"
 last-updated: 2020-07-01
 ---
 
-## Fracsland
-https://diposit.ub.edu/dspace/handle/2445/104290
+## [Fracsland](https://diposit.ub.edu/dspace/handle/2445/104290)
 
 #### Fracsland - codesign
 
