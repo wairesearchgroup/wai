@@ -37,7 +37,7 @@ base: ""
 
 # make pages for the _projects folder
 collections:
-  projects:
+  projectsCS:
     output: true
   # make pages for the _projectsMath folder
   projectsMath:

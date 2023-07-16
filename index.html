@@ -69,8 +69,8 @@ role-tables:
 <section>
   <h2>Computer Science Games</h2>
   <div class="card-columns">
-    {% comment %} Sort the projects by date, putting those without dates last {%
-    endcomment %} {% assign projects_by_date = site.projects | sort:
+    {% comment %} Sort the projectsCS by date, putting those without dates last {%
+    endcomment %} {% assign projects_by_date = site.projectsCS | sort:
     'last-updated', 'first' %} {% assign projects_by_date = projects_by_date |
     reverse %} {% for p in projects_by_date %} {% if p.status != "inactive" %}
     {% include project-card.html project=p %} {% endif %} {% endfor %}
@@ -82,7 +82,7 @@ role-tables:
 <section>
   <h2>Other Games</h2>
   <div class="card-columns">
-    {% comment %} Sort the projects by date, putting those without dates last {%
+    {% comment %} Sort the projectsCS by date, putting those without dates last {%
     endcomment %} {% assign projects_by_date = site.projectsOthers | sort:
     'last-updated', 'first' %} {% assign projects_by_date = projects_by_date |
     reverse %} {% for p in projects_by_date %} {% if p.status != "inactive" %}
