@@ -11,14 +11,14 @@ prof-b:
   webpage: "https://webgrec.ub.edu/webpages/personal/cat/001040_annapuig.ub.edu.html"
   github: annapuigpuig
   role: faculty
-  image: /img/people/anna.jpg
+  image: ./img/people/anna.jpg
 
 prof-c:
   display_name: "Prof Inmaculada Rodriguez Santiago"
   webpage: "https://webgrec.ub.edu/webpages/000006/ang/inmarodriguez.ub.edu.html"
   github: inmairs
   role: faculty
-  image: /img/people/inma.jpg
+  image: ./img/people/inma.jpg
 prof-d:
   display_name: "Prof Maria Salamo Llorente"
   webpage: "https://webgrec.ub.edu/webpages/personal/ang/002969_maria.salamo.ub.edu.html"
