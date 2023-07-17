@@ -128,6 +128,14 @@ alum-m:
   role: alum
   image: "http://www.ub.edu/wai/wp-content/uploads/2023/07/foto_perfil_ds-e1688676549557.jpg"
 
+alum-n:
+  display_name: "Manuel Ernesto Martinez"
+  role: alum
+
+alum-o:
+  display_name: "Arnau Rovira"
+  role: alum
+
 collab-jar:
   display_name: "Jose Antonio Rodríguez-Aguilar"
   bio: "Senior Researcher at IIIA"
