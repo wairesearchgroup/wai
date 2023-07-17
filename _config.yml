@@ -52,10 +52,10 @@ navigation:
   - title: Serious Game Projects
     link: /
   - title: Math Games
-    link: /mathGames.html
+    link: /wai/mathGames.html
   - title: Computer Science Games
-    link: /CSGames.html
+    link: /wai/CSGames.html
   - title: Others Games
-    link: /otherGames.html
+    link: /wai/otherGames.html
   - title: Publications
-    link: /publications.html
+    link: /wai/publications.html
