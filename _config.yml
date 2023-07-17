@@ -1,6 +1,7 @@
 name: WAI  Serious Game Projects
-url: http://127.0.0.1:5000
-# http://awesome.example.edu
+#url: http://127.0.0.1:5000
+#
+url: https://annapuigpuig.github.io/wai/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -49,12 +50,12 @@ collections:
 # Navigation bar links.
 navigation:
   - title: Serious Game Projects
-    link: ./
+    link: /
   - title: Math Games
-    link: ./mathGames.html
+    link: /mathGames.html
   - title: Computer Science Games
-    link: ./CSGames.html
+    link: /CSGames.html
   - title: Others Games
-    link: ./otherGames.html
+    link: /otherGames.html
   - title: Publications
-    link: ./publications.html
+    link: /publications.html
