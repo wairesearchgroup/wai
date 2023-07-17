@@ -14,7 +14,7 @@ people:
   - alum-k
 
 layout: project
-image: "/img/TriviaGameVR.png"
+image: "./img/TriviaGameVR.png"
 last-updated: 2023-07-11
 ---
 
@@ -35,6 +35,6 @@ a starter for other students so it is highly encouraged that any students on dif
 on top it. The focus of the game is not to actively teach the player from scratch,
 it is a tool to learn the answer to specific questions or train for an exam.
 
-![Snapshot of the game](/img/TriviaBuildingFirstScene.png)
+![Snapshot of the game](./img/TriviaBuildingFirstScene.png)
 
 [![Watch the video]()](https://www.youtube.com/watch?v=1gDgYomyV70&t=128s)

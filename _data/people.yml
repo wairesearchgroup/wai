@@ -3,7 +3,7 @@ prof-a:
   webpage: "https://webgrec.ub.edu/webpages/000006/ang/maite_lopez.ub.edu.html"
   github: maitels
   role: faculty
-  image: /img/people/maite.jpeg
+  image: ./img/people/maite.jpeg
   bio: Professor
 
 prof-b:
@@ -11,35 +11,35 @@ prof-b:
   webpage: "https://webgrec.ub.edu/webpages/personal/cat/001040_annapuig.ub.edu.html"
   github: annapuigpuig
   role: faculty
-  image: /img/people/anna.jpg
+  image: ./img/people/anna.jpg
 
 prof-c:
   display_name: "Prof Inmaculada Rodriguez Santiago"
   webpage: "https://webgrec.ub.edu/webpages/000006/ang/inmarodriguez.ub.edu.html"
   github: inmairs
   role: faculty
-  image: /img/people/inma.jpg
+  image: ./img/people/inma.jpg
 prof-d:
   display_name: "Prof Maria Salamo Llorente"
   webpage: "https://webgrec.ub.edu/webpages/personal/ang/002969_maria.salamo.ub.edu.html"
   github: msalamo
   role: faculty
-  image: /img/people/maria.jpeg
+  image: ./img/people/maria.jpeg
 
 david:
   display_name: "David Contreras"
   github: wolverine
-  image: /img/people/davidcontreras.jpeg
+  image: ./img/people/davidcontreras.jpeg
   role: postdoc
 
 grad-a:
   display_name: "Thanasis Zoumpekas"
   role: grad
-  image: /img/people/thanasis.png
+  image: ./img/people/thanasis.png
 grad-b:
   display_name: "Ecem Kavaz"
   role: grad
-  image: /img/people/ecem.png
+  image: ./img/people/ecem.png
 grad-c:
   display_name: "Leandro Zardain"
   role: grad
@@ -47,7 +47,7 @@ grad-c:
 grad-d:
   display_name: "Alejandro Ariza"
   role: grad
-  image: /img/people/storm.png
+  image: ./img/people/storm.png
 grad-e:
   display_name: "Grad E"
   role: grad
@@ -71,12 +71,12 @@ grad-i:
 alum-a:
   display_name: "Pablo Almajano"
   role: alum
-  image: /img/people/pablo.jpeg
+  image: ./img/people/pablo.jpeg
   bio: "Ph.D., 2013. Now at ***."
 
 alum-b:
   display_name: "Alex Rodríguez-Campoy"
-  image: /img/people/storm.png
+  image: ./img/people/storm.png
   bio: "CS and Math Graduate Student, 2020. Now at ***."
   role: alum
 
@@ -140,14 +140,14 @@ collab-jar:
   display_name: "Jose Antonio Rodríguez-Aguilar"
   bio: "Senior Researcher at IIIA"
   webpage: "https://www.iiia.csic.es/~jar/Jariiia/Home.html"
-  image: /img/people/jar.jpeg
+  image: ./img/people/jar.jpeg
   role: collab
 
 collab-jesus:
   display_name: "Jesús Cerquides Bueno"
   role: collab
   bio: "Senior Researcher at IIIA"
-  image: /img/people/jesus.gif
+  image: ./img/people/jesus.gif
 
 collab-c:
   display_name: "Sergi Múria"
