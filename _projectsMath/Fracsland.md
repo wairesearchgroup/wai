@@ -17,7 +17,7 @@ people:
 layout: project
 image: "./img/mathProjects/Fracsland.png"
 last-updated: 2020-07-01
-url: "./projectsMath/Fracsland.html"
+#url: "./projectsMath/Fracsland.html"
 ---
 
 ## [Fracsland](https://diposit.ub.edu/dspace/handle/2445/104290)
