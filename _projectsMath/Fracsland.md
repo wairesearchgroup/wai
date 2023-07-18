@@ -26,7 +26,7 @@ last-updated: 2020-07-01
 
 Fracsland is an educative project oriented to reinforce de concept of fraction to the students of the PrimarySchool and how this knowledge can be related with real world concepts.
 
-![Co-design sessions with students](/img/mathProjects/codesign-2.png){: width="50%" }
+![Co-design sessions with students](/wai/img/mathProjects/codesign-2.png){: width="50%" }
 
 #### Fracsland - play
 <p>On the one hand, there is a part designed especially for the students which consists in a serious game of fractions with beautiful 3D graphics powered by Unity3D which will allow them to have fun on an island based environment while learning about concepts related with fractions.
