@@ -11,7 +11,7 @@ prof-b:
   webpage: "https://webgrec.ub.edu/webpages/personal/cat/001040_annapuig.ub.edu.html"
   github: annapuigpuig
   role: faculty
-  image: ./img/people/anna.jpg
+  image: "https://webgrec.ub.edu/arxius/CUWPFO/001040-000446.jpg"
 
 prof-c:
   display_name: "Prof Inmaculada Rodriguez Santiago"
