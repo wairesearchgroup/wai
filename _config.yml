@@ -35,7 +35,7 @@ roles:
 front_page_news: 2
 
 # Base pathname for links.
-base: "wai"
+base: ""
 
 # make pages for the _projects folder
 collections:
