@@ -24,4 +24,4 @@ level that perfectly fits your needs in case you find the base levels not comple
 add something new, treat some aspects differently or even adapt it to a specific student or group of
 students.
 
-![Snapshot of the game](/wai/img/otherProjects/EcoSeaSandoxTwoSnaps.png){: width="70%" }
+![Snapshot of the game](/wai/img/otherProjects/EcoSeaSandox.png){: width="70%" }
