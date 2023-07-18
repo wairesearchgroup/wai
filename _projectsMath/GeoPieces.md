@@ -17,7 +17,7 @@ people:
 
 
 layout: project
-image: "/wai/img/mathProjects/3DGeopieces.png"
+image: "/img/mathProjects/3DGeopieces.png"
 last-updated: 2023-07-11
 ---
 
@@ -41,7 +41,7 @@ This part of the game, [GeoPieces2D](
 http://hdl.handle.net/2445/105683) developed by David Rausell, has related to solve 2D geometrical problems identifying figures, symmetries, areas, etc..
 The findings will be usable in the next part of the game to fold and unfold 3D objects.
 
-![Snapshot of the game](/wai/img/mathProjects/2DImage.png){: width="25%" }
+![Snapshot of the game](/wai/img/mathProjects/2Dimage.png){: width="25%" }
 
 [![Watch a video: challenge of finding 2D geometry]()](https://youtu.be/m2v7txNSHik)
 
@@ -52,7 +52,7 @@ The findings will be usable in the next part of the game to fold and unfold 3D o
 
 In this mode of [GeoPieces2D-3D](https://diposit.ub.edu/dspace/handle/2445/102329) (developed by Sergi Cebrian), the player will construct 3D figures starting from the 2D polygons obtained in the previous challenges.
 
-![Snapshot of the game](/wai/img/mathProjects/2d-3DImage.png){: width="25%" }
+![Snapshot of the game](/wai/img/mathProjects/2D-3DImage.png){: width="25%" }
 
 [![Watch the video of a challenge]()](https://www.youtube.com/playlist?list=PLYl7lmL25Y7Ltqn97Pjb0d_FsCKo7VDRG)
 
