@@ -16,7 +16,7 @@ people:
   - alum-j
 
 layout: project
-image: "/img/CookingCode.png"
+image: "/img/cookingCode.png"
 last-updated: 2023-07-11
 ---
 
