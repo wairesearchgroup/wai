@@ -1,7 +1,7 @@
 name: WAI  Serious Game Projects
 #url: http://127.0.0.1:5000
 #
-url: https://annapuigpuig.github.io/wai
+url: https://annapuigpuig.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -34,7 +34,7 @@ roles:
 front_page_news: 2
 
 # Base pathname for links.
-base: ""
+base: "wai"
 
 # make pages for the _projects folder
 collections:
