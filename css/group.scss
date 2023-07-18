@@ -18,14 +18,15 @@ body {
   //inma: añado
   background-color: #087e8a;
 }
-//inma: añado dos siguientes reglas
+//inma: añado tres siguientes reglas
 li > a {
   color: white;
 }
 a {
   color: #087e8a;
 }
-  
+a:hover {
+  color: #6c4675;
 }
 
 .footer {
