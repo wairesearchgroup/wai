@@ -43,7 +43,7 @@ grad-b:
 grad-c:
   display_name: "Leandro Zardain"
   role: grad
-  image: http://www.ub.edu/wai/wp-content/uploads/2023/07/foto_perfil_ds-e1688676549557.jpg
+  image: "http://www.ub.edu/wai/wp-content/uploads/2023/07/foto_perfil_ds-e1688676549557.jpg"
 grad-d:
   display_name: "Alejandro Ariza"
   role: grad
