@@ -1,7 +1,8 @@
 name: WAI  Serious Game Projects
 #url: http://127.0.0.1:5000
 #
-url: https://annapuigpuig.github.io/
+url: https://annapuigpuig.github.io/wai
+category_dir: /
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
