@@ -15,8 +15,13 @@ body {
   margin-bottom: 20px;
   text-align: center;
   //background-color: #117a65;
+  //inma: añado
+  background-color: #087e8a;
 }
-
+//inma: añado
+li > a {
+  color: white;
+}
 .footer {
   /* padding-top: 19px; */
   color: $gray;
