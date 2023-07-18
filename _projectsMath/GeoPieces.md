@@ -17,7 +17,7 @@ people:
 
 
 layout: project
-image: "./img/mathProjects/3DGeopieces.png"
+image: "/img/mathProjects/3DGeopieces.png"
 last-updated: 2023-07-11
 ---
 
@@ -41,7 +41,7 @@ This part of the game, [GeoPieces2D](
 http://hdl.handle.net/2445/105683) developed by David Rausell, has related to solve 2D geometrical problems identifying figures, symmetries, areas, etc..
 The findings will be usable in the next part of the game to fold and unfold 3D objects.
 
-![Snapshot of the game](./img/mathProjects/2DImage.png){: width="25%" }
+![Snapshot of the game](/img/mathProjects/2DImage.png){: width="25%" }
 
 [![Watch a video: challenge of finding 2D geometry]()](https://youtu.be/m2v7txNSHik)
 
@@ -52,7 +52,7 @@ The findings will be usable in the next part of the game to fold and unfold 3D o
 
 In this mode of [GeoPieces2D-3D](https://diposit.ub.edu/dspace/handle/2445/102329) (developed by Sergi Cebrian), the player will construct 3D figures starting from the 2D polygons obtained in the previous challenges.
 
-![Snapshot of the game](./img/mathProjects/2d-3DImage.png){: width="25%" }
+![Snapshot of the game](/img/mathProjects/2d-3DImage.png){: width="25%" }
 
 [![Watch the video of a challenge]()](https://www.youtube.com/playlist?list=PLYl7lmL25Y7Ltqn97Pjb0d_FsCKo7VDRG)
 
@@ -60,12 +60,12 @@ In this mode of [GeoPieces2D-3D](https://diposit.ub.edu/dspace/handle/2445/10232
 
 In [GeoPieces 3D](http://hdl.handle.net/2445/119185), the player has to construct the final figure in the 3D space. This paft has been developed by Leandro Zardain.
 
-![Snapshot of the game](./img/mathProjects/3DImage.jpg){: width="25%" }
+![Snapshot of the game](/img/mathProjects/3DImage.jpg){: width="25%" }
 
 #### GeoPieces - analysis of the first version
 In this [project](http://hdl.handle.net/2445/122272) we analyze the performance of the game in a real experience in a High School. The obtained results in the group who played the game in front of the control group are very promising in terms of engagement and motivation. The evaluation has been conducted by Gonzalo Panella.
 
-![Snapshot of the game](./img/mathProjects/campanya.png){: width="25%" }
+![Snapshot of the game](/img/mathProjects/campanya.png){: width="25%" }
 
 
 #### Geopieces new version - A sudoku of projections 
@@ -74,16 +74,16 @@ This is a new version of the 2D challenges and the 3D reconstruction using three
 First of all, students have to collect objects in three mini-games: GeoCollect, GeoTatami and GeoFootball.
 
 
-![Snapshots of GeoCollect](./img/mathProjects/GeoCollect.jpg){: width="50%" } | ![Snapshots of GeoTatami](./img/mathProjects/GEoTatami.jpg){: width="50%" }| ![Snapshots of GeoFootball](/img/mathProjects/GeoFootball.jpg){: width="50%" }
+![Snapshots of GeoCollect](/img/mathProjects/GeoCollect.jpg){: width="50%" } | ![Snapshots of GeoTatami](/img/mathProjects/GEoTatami.jpg){: width="50%" }| ![Snapshots of GeoFootball](/img/mathProjects/GeoFootball.jpg){: width="50%" }
 
 
 After that, they can reconstruct a 3D object by ensambling different 3D basic primitives:
 
-![Snapshots of GeoSudoku](./img/mathProjects/GeoSudoku.png){: width="25%" }
+![Snapshots of GeoSudoku](/img/mathProjects/GeoSudoku.png){: width="25%" }
 
 In summary, we can play following the next schema:
 
-![Snapshot of the game](./img/mathProjects/allTogetherGeoSodoku.jpg){: width="50%" }
+![Snapshot of the game](/img/mathProjects/allTogetherGeoSodoku.jpg){: width="50%" }
 
 In all cases, teachers can create challenges, assign them to the students, and, then, students can play a new game in each session.
 
