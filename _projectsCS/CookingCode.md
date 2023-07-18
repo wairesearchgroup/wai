@@ -28,7 +28,7 @@ This game aims to teach programming using a metaphor of cooking and restaurants.
 
 The game is based on the metaphor of a Burger, set in a futuristic era where robots and humans coexist as equals. The player plays the role of a chef, having to learn to read the orders that arrive and carry them out successfully. The main difficulty is that the requests do not arrive in natural language, but in a kind of pseudo-code.
 
-![Snapshot of the game](/img/cookingCode.png)
+![Snapshot of the game](/wai/img/cookingCode.png)
 
 [![Watch a video: challenge of cooking with simple sequential sentences]()](https://www.youtube.com/watch?v=aV7KA7_Eigs)
 
@@ -44,7 +44,7 @@ In this mode, the player will be a waiter so that she/he must
 go to the different tables of the restaurant collecting clients' orders. The main diffculty will be to translate
 these orders, that they receive in natural language, into a language similar to pseudo-code. The player grabs and locate panels of food (drinks, bread, cheese, etc.) which in fact represent programming constructs (sequential instructions, if else, for).
 
-![Snapshot of the game](/img/RestaurantCode.png)
+![Snapshot of the game](/wai/img/RestaurantCode.png)
 
 [![Watch the video]()](https://www.youtube.com/playlist?list=PLYl7lmL25Y7Ltqn97Pjb0d_FsCKo7VDRG)
 

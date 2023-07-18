@@ -32,9 +32,9 @@ Fracsland is an educative project oriented to reinforce de concept of fraction t
 <p>On the one hand, there is a part designed especially for the students which consists in a serious game of fractions with beautiful 3D graphics powered by Unity3D which will allow them to have fun on an island based environment while learning about concepts related with fractions.
 </p>
 
-![Snapshots of the game](/img/mathProjects/selectQuestFracsland.png){: width="60%"} |![](/img/mathProjects/pont.png){: width="120%"} | ![](/img/mathProjects/hort.png){: width="100%"}
+![Snapshots of the game](/wai/img/mathProjects/selectQuestFracsland.png){: width="60%"} |![](/wai/img/mathProjects/pont.png){: width="120%"} | ![](/img/mathProjects/hort.png){: width="100%"}
 
-![](/img/mathProjects/InventoryFracsland.png){: width="60%" } |![](/img/mathProjects/Frascland2.png){: width="75%"}
+![](/img/mathProjects/InventoryFracsland.png){: width="60%" } |![](/wai/img/mathProjects/Frascland2.png){: width="75%"}
 
 [![Watch a video: playing Fracsland - TO DO]()](https://www.youtube.com/watch?v=t_7n_6BZ--w)
 
