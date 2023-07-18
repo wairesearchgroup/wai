@@ -43,8 +43,9 @@
           'active' %} {% endif %}
 
           <li class="nav-item">
+            <!-- inma: en la linea 48 antes ponia class="nav-link {{maybe-active}}" lo cambio para tener look de wai-->
             <a
-              class="nav-link {{ maybe-active }}"
+              class="nav-link {{ not-active }}"
               href="{{ site.base }}{{ item.link }}"
             >
               {{ item.title }}
