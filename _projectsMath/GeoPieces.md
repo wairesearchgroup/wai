@@ -17,7 +17,7 @@ people:
 
 
 layout: project
-image: "/img/mathProjects/3DGeopieces.png"
+image: "/wai/img/mathProjects/3DGeopieces.png"
 last-updated: 2023-07-11
 ---
 
