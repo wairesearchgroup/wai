@@ -18,10 +18,16 @@ body {
   //inma: añado
   background-color: #087e8a;
 }
-//inma: añado
+//inma: añado dos siguientes reglas
 li > a {
   color: white;
 }
+a {
+  color: #087e8a;
+}
+  
+}
+
 .footer {
   /* padding-top: 19px; */
   color: $gray;
