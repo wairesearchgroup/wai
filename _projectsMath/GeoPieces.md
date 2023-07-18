@@ -74,7 +74,7 @@ This is a new version of the 2D challenges and the 3D reconstruction using three
 First of all, students have to collect objects in three mini-games: GeoCollect, GeoTatami and GeoFootball.
 
 
-![Snapshots of GeoCollect](/img/mathProjects/GeoCollect.jpg){: width="50%" } | ![Snapshots of GeoTatami](/img/mathProjects/GEoTatami.jpg){: width="50%" }| ![Snapshots of GeoFootball](/img/mathProjects/GeoFootball.jpg){: width="50%" }
+![Snapshots of GeoCollect](/img/mathProjects/GeoCollect.jpg){: width="50%" } | ![Snapshots of GeoTatami](/img/mathProjects/GeoTatami.jpg){: width="50%" }| ![Snapshots of GEoFootball](/img/mathProjects/GeoFootball.jpg){: width="50%" }
 
 
 After that, they can reconstruct a 3D object by ensambling different 3D basic primitives:
